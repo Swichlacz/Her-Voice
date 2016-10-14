@@ -4,7 +4,7 @@
 
 
 
-**T**he wild bee reels from bough to bough<br>
+__**The**__ wild bee reels from bough to bough<br>
 With his furry coat and his gauzy wing,<br>
 Now in a lily-cup, and now<br>
 Setting a jacinth bell a-swing,<br>
